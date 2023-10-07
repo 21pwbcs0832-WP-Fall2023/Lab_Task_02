@@ -217,37 +217,11 @@ li a:hover{
 }
 
 .cont-p{
-    /* text-align: center; */
     padding-top: 4rem;
     padding-left: 1rem;
     font-size: 1.6rem;
 }
-/* .center{
-   position: relative;
-}
-.center a{
-    position: absolute;
-    top: 50%;
-    left: 30%;
-} */
 
-
-/* ########## join style area ############# */
-
-.join-h2{
-    padding: 1rem 1rem;
-    font-size: 3rem;
-}
-
-.join-container{
-    border-bottom: 2px solid #827d7d;
-    padding-bottom: 1rem;
-}
-
-.join-items{
-    padding: 0rem 1rem;
-    font-size: 1.6rem;
-}
 /* ########## potfolilo########### */
 .P-description{
     padding-left: 2rem;
